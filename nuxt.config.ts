@@ -1,7 +1,15 @@
 export default defineNuxtConfig({
   devtools: { enabled: false },
 
+  nitro: {
+    preset: 'static',
+    prerender: {
+      routes: ['/'],
+    },
+  },
+
   app: {
+    baseURL: '/ux-portfolio/',
     head: {
       htmlAttrs: { lang: 'en' },
       title: 'Dawood H. — Portfolio',

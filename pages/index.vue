@@ -669,14 +669,14 @@ const carouselItems = [
 
 const carouselItemsReverse = [
   { title: '节日节气', href: '/work4', image: '/节日节气/节日节气-01.png' },
-  { title: '项目5', href: '/work5', image: '/项目5.png' },
-  { title: '项目6', href: '/work6', image: '/项目6.png' },
-  { title: '项目7', href: '/work7', image: '/项目7.png' },
-  { title: '团好货全新改版', href: '/work8', image: '/项目8.png' },
+  { title: '项目5', href: '/work/项目5', image: '/项目5.png' },
+  { title: '项目6', href: '/work/项目6', image: '/项目6.png' },
+  { title: '项目7', href: '/work/项目7', image: '/项目7.png' },
+  { title: '团好货全新改版', href: '/work/团好货', image: '/项目8.png' },
   { title: '节日节气', href: '/work4', image: '/节日节气/节日节气-01.png' },
-  { title: '项目5', href: '/work5', image: '/项目5.png' },
-  { title: '项目6', href: '/work6', image: '/项目6.png' },
-  { title: '项目7', href: '/work7', image: '/项目7.png' },
+  { title: '项目5', href: '/work/项目5', image: '/项目5.png' },
+  { title: '项目6', href: '/work/项目6', image: '/项目6.png' },
+  { title: '项目7', href: '/work/项目7', image: '/项目7.png' },
 ]
 </script>
 
