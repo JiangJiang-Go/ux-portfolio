@@ -31,7 +31,7 @@
         <!-- ====== DOM idx 0: Profile Widget (原站 top:502.5, left:14, w:159, h:159) ====== -->
         <div class="hero-profile-widget" ref="itemProfile">
           <div class="profile-img-wrap">
-            <img src="/头像.png" alt="Profile" />
+            <img :src="'/ux-portfolio/头像.png'" alt="Profile" />
           </div>
           <div class="location-pill">
             <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><path fill-rule="evenodd" d="M11.54 22.351l.07.04.028.016a.76.76 0 0 0 .723 0l.028-.015.071-.041a16.975 16.975 0 0 0 1.144-.742 19.58 19.58 0 0 0 2.683-2.282c1.944-1.99 3.963-4.98 3.963-8.827a8.25 8.25 0 0 0-16.5 0c0 3.846 2.02 6.837 3.963 8.827a19.58 19.58 0 0 0 2.682 2.282 16.975 16.975 0 0 0 1.145.742ZM12 13.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" clip-rule="evenodd" /></svg>
@@ -656,27 +656,27 @@ function onHeroLeave() {
 }
 
 const carouselItems = [
-  { title: '优选账单', href: '/bill', image: '/优选账单.png' },
-  { title: '微信分享卡片', href: '/share', image: '/微信分享卡片.png' },
-  { title: '购物小票', href: '/receipt', image: '/购物小票.png' },
-  { title: '优选账单', href: '/bill', image: '/优选账单.png' },
-  { title: '微信分享卡片', href: '/share', image: '/微信分享卡片.png' },
-  { title: '购物小票', href: '/receipt', image: '/购物小票.png' },
-  { title: '优选账单', href: '/bill', image: '/优选账单.png' },
-  { title: '微信分享卡片', href: '/share', image: '/微信分享卡片.png' },
-  { title: '购物小票', href: '/receipt', image: '/购物小票.png' },
+  { title: '优选账单', href: '/bill', image: '/ux-portfolio/优选账单.png' },
+  { title: '微信分享卡片', href: '/share', image: '/ux-portfolio/微信分享卡片.png' },
+  { title: '购物小票', href: '/receipt', image: '/ux-portfolio/购物小票.png' },
+  { title: '优选账单', href: '/bill', image: '/ux-portfolio/优选账单.png' },
+  { title: '微信分享卡片', href: '/share', image: '/ux-portfolio/微信分享卡片.png' },
+  { title: '购物小票', href: '/receipt', image: '/ux-portfolio/购物小票.png' },
+  { title: '优选账单', href: '/bill', image: '/ux-portfolio/优选账单.png' },
+  { title: '微信分享卡片', href: '/share', image: '/ux-portfolio/微信分享卡片.png' },
+  { title: '购物小票', href: '/receipt', image: '/ux-portfolio/购物小票.png' },
 ]
 
 const carouselItemsReverse = [
-  { title: '节日节气', href: '/work4', image: '/节日节气/节日节气-01.png' },
-  { title: '项目5', href: '/work/项目5', image: '/项目5.png' },
-  { title: '项目6', href: '/work/项目6', image: '/项目6.png' },
-  { title: '项目7', href: '/work/项目7', image: '/项目7.png' },
-  { title: '团好货全新改版', href: '/work/团好货', image: '/项目8.png' },
-  { title: '节日节气', href: '/work4', image: '/节日节气/节日节气-01.png' },
-  { title: '项目5', href: '/work/项目5', image: '/项目5.png' },
-  { title: '项目6', href: '/work/项目6', image: '/项目6.png' },
-  { title: '项目7', href: '/work/项目7', image: '/项目7.png' },
+  { title: '节日节气', href: '/work4', image: '/ux-portfolio/节日节气/节日节气-01.png' },
+  { title: '项目5', href: '/work/项目5', image: '/ux-portfolio/项目5.png' },
+  { title: '项目6', href: '/work/项目6', image: '/ux-portfolio/项目6.png' },
+  { title: '项目7', href: '/work/项目7', image: '/ux-portfolio/项目7.png' },
+  { title: '团好货全新改版', href: '/work/团好货', image: '/ux-portfolio/项目8.png' },
+  { title: '节日节气', href: '/work4', image: '/ux-portfolio/节日节气/节日节气-01.png' },
+  { title: '项目5', href: '/work/项目5', image: '/ux-portfolio/项目5.png' },
+  { title: '项目6', href: '/work/项目6', image: '/ux-portfolio/项目6.png' },
+  { title: '项目7', href: '/work/项目7', image: '/ux-portfolio/项目7.png' },
 ]
 </script>
 

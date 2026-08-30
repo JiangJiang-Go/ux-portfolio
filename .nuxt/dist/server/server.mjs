@@ -591,7 +591,7 @@ const _routes = [
   {
     name: "bill",
     path: "/bill",
-    component: () => import("./_nuxt/bill-BPPbChQ2.js")
+    component: () => import("./_nuxt/bill-B8H9S3BQ.js")
   },
   {
     name: "about",
@@ -601,17 +601,17 @@ const _routes = [
   {
     name: "index",
     path: "/",
-    component: () => import("./_nuxt/index-Co0dsTAu.js")
+    component: () => import("./_nuxt/index-Cgi_EPiW.js")
   },
   {
     name: "share",
     path: "/share",
-    component: () => import("./_nuxt/share-BIPjcZAM.js")
+    component: () => import("./_nuxt/share-DYKgCByp.js")
   },
   {
     name: "work4",
     path: "/work4",
-    component: () => import("./_nuxt/work4-DLE3R-8P.js")
+    component: () => import("./_nuxt/work4-BJawHeYk.js")
   },
   {
     name: "contact",
@@ -621,17 +621,17 @@ const _routes = [
   {
     name: "receipt",
     path: "/receipt",
-    component: () => import("./_nuxt/receipt-H_ZDpf-U.js")
+    component: () => import("./_nuxt/receipt-Cv0SFFB9.js")
   },
   {
     name: "work-slug",
     path: "/work/:slug()",
-    component: () => import("./_nuxt/_slug_-Blc0OrGC.js")
+    component: () => import("./_nuxt/_slug_-DdvSTfDI.js")
   },
   {
     name: "work-evostudio",
     path: "/work/evostudio",
-    component: () => import("./_nuxt/evostudio-C5QaxBQu.js")
+    component: () => import("./_nuxt/evostudio-CQed_P4c.js")
   }
 ];
 const validate = /* @__PURE__ */ defineNuxtRouteMiddleware(async (to) => {

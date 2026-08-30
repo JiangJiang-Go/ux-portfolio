@@ -66,7 +66,7 @@ const project = {
   tags: ['UI设计', '动画设计', 'AIGC'],
   description: '为优化用户购物路径并提升跨品类购买，拟通过可视化的优选账单玩法，利用消费数据量化、省钱提示和缺陷引导等手段，刺激用户重复购买和探索新品类。',
   images: [
-    '/优选账单-detail-1.png',
+    '/ux-portfolio/优选账单-detail-1.png',
   ]
 }
 useHead({ title: '优选账单 | Dawood' })

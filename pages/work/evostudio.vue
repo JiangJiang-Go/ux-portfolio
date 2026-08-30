@@ -56,8 +56,8 @@
 <script setup>
 const project = {
   images: [
-    '/私域设计助力商业增值/医美-01.png',
-    '/私域设计助力商业增值/医美-02.png',
+    '/ux-portfolio/私域设计助力商业增值/医美-01.png',
+    '/ux-portfolio/私域设计助力商业增值/医美-02.png',
   ]
 }
 useHead({ title: '私域设计助力商业增值 | 蒋林根' })

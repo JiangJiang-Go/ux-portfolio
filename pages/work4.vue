@@ -57,19 +57,19 @@
 <script setup>
 const project = {
   images: [
-    '/节日节气/节日节气-01.png',
-    '/节日节气/节日节气-02.png',
-    '/节日节气/节日节气-03.png',
-    '/节日节气/节日节气-04.png',
-    '/节日节气/节日节气-05.png',
-    '/节日节气/节日节气-06.png',
-    '/节日节气/节日节气-07.png',
-    '/节日节气/节日节气-08.png',
-    '/节日节气/节日节气-09.png',
-    '/节日节气/节日节气-10.png',
-    '/节日节气/节日节气-11.png',
-    '/节日节气/节日节气-12.png',
-    '/节日节气/节日节气-13.png',
+    '/ux-portfolio/节日节气/节日节气-01.png',
+    '/ux-portfolio/节日节气/节日节气-02.png',
+    '/ux-portfolio/节日节气/节日节气-03.png',
+    '/ux-portfolio/节日节气/节日节气-04.png',
+    '/ux-portfolio/节日节气/节日节气-05.png',
+    '/ux-portfolio/节日节气/节日节气-06.png',
+    '/ux-portfolio/节日节气/节日节气-07.png',
+    '/ux-portfolio/节日节气/节日节气-08.png',
+    '/ux-portfolio/节日节气/节日节气-09.png',
+    '/ux-portfolio/节日节气/节日节气-10.png',
+    '/ux-portfolio/节日节气/节日节气-11.png',
+    '/ux-portfolio/节日节气/节日节气-12.png',
+    '/ux-portfolio/节日节气/节日节气-13.png',
   ]
 }
 useHead({ title: '节日节气 | 蒋林根' })
