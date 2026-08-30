@@ -3,7 +3,7 @@
     <nav class="site-nav">
       <div class="nav-links">
         <!-- Projects -->
-        <a href="/#projects" class="nav-link" :class="{ active: isActive('/#projects') }">
+        <a href="/ux-portfolio/#projects" class="nav-link" :class="{ active: isActive('/#projects') }">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" data-slot="icon" color="rgb(255, 255, 255)" width="34" height="34" class="nav-svg">
             <path d="M19.5 21a3 3 0 0 0 3-3v-4.5a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3V18a3 3 0 0 0 3 3h15ZM1.5 10.146V6a3 3 0 0 1 3-3h5.379a2.25 2.25 0 0 1 1.59.659l2.122 2.121c.14.141.331.22.53.22H19.5a3 3 0 0 1 3 3v1.146A4.483 4.483 0 0 0 19.5 9h-15a4.483 4.483 0 0 0-3 1.146Z" />
           </svg>
@@ -11,7 +11,7 @@
         </a>
 
         <!-- About -->
-        <a href="/About" class="nav-link" :class="{ active: isActive('/About') }">
+        <a href="/ux-portfolio/About" class="nav-link" :class="{ active: isActive('/About') }">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" data-slot="icon" color="rgb(255, 255, 255)" width="34" height="34" class="nav-svg">
             <path fill-rule="evenodd" d="M7.5 6a4.5 4.5 0 1 1 9 0 4.5 4.5 0 0 1-9 0ZM3.751 20.105a8.25 8.25 0 0 1 16.498 0 .75.75 0 0 1-.437.695A18.683 18.683 0 0 1 12 22.5c-2.786 0-5.433-.608-7.812-1.7a.75.75 0 0 1-.437-.695Z" clip-rule="evenodd" />
           </svg>
@@ -39,7 +39,7 @@ const isHomePage = computed(() => route.path === '/')
 
 function isActive(href) {
   if (import.meta.client) {
-    if (href.startsWith('/#')) {
+    if (href.startsWith('/ux-portfolio/#')) {
       return window.location.pathname === '/' && window.location.hash === href.slice(1)
     }
     return window.location.pathname === href

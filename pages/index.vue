@@ -656,27 +656,27 @@ function onHeroLeave() {
 }
 
 const carouselItems = [
-  { title: '优选账单', href: '/bill', image: '/ux-portfolio/优选账单.png' },
-  { title: '微信分享卡片', href: '/share', image: '/ux-portfolio/微信分享卡片.png' },
-  { title: '购物小票', href: '/receipt', image: '/ux-portfolio/购物小票.png' },
-  { title: '优选账单', href: '/bill', image: '/ux-portfolio/优选账单.png' },
-  { title: '微信分享卡片', href: '/share', image: '/ux-portfolio/微信分享卡片.png' },
-  { title: '购物小票', href: '/receipt', image: '/ux-portfolio/购物小票.png' },
-  { title: '优选账单', href: '/bill', image: '/ux-portfolio/优选账单.png' },
-  { title: '微信分享卡片', href: '/share', image: '/ux-portfolio/微信分享卡片.png' },
-  { title: '购物小票', href: '/receipt', image: '/ux-portfolio/购物小票.png' },
+  { title: '优选账单', href: '/ux-portfolio/bill', image: '/ux-portfolio/优选账单.png' },
+  { title: '微信分享卡片', href: '/ux-portfolio/share', image: '/ux-portfolio/微信分享卡片.png' },
+  { title: '购物小票', href: '/ux-portfolio/receipt', image: '/ux-portfolio/购物小票.png' },
+  { title: '优选账单', href: '/ux-portfolio/bill', image: '/ux-portfolio/优选账单.png' },
+  { title: '微信分享卡片', href: '/ux-portfolio/share', image: '/ux-portfolio/微信分享卡片.png' },
+  { title: '购物小票', href: '/ux-portfolio/receipt', image: '/ux-portfolio/购物小票.png' },
+  { title: '优选账单', href: '/ux-portfolio/bill', image: '/ux-portfolio/优选账单.png' },
+  { title: '微信分享卡片', href: '/ux-portfolio/share', image: '/ux-portfolio/微信分享卡片.png' },
+  { title: '购物小票', href: '/ux-portfolio/receipt', image: '/ux-portfolio/购物小票.png' },
 ]
 
 const carouselItemsReverse = [
-  { title: '节日节气', href: '/work4', image: '/ux-portfolio/节日节气/节日节气-01.png' },
-  { title: '项目5', href: '/work/项目5', image: '/ux-portfolio/项目5.png' },
-  { title: '项目6', href: '/work/项目6', image: '/ux-portfolio/项目6.png' },
-  { title: '项目7', href: '/work/项目7', image: '/ux-portfolio/项目7.png' },
-  { title: '团好货全新改版', href: '/work/团好货', image: '/ux-portfolio/项目8.png' },
-  { title: '节日节气', href: '/work4', image: '/ux-portfolio/节日节气/节日节气-01.png' },
-  { title: '项目5', href: '/work/项目5', image: '/ux-portfolio/项目5.png' },
-  { title: '项目6', href: '/work/项目6', image: '/ux-portfolio/项目6.png' },
-  { title: '项目7', href: '/work/项目7', image: '/ux-portfolio/项目7.png' },
+  { title: '节日节气', href: '/ux-portfolio/work4', image: '/ux-portfolio/节日节气/节日节气-01.png' },
+  { title: '项目5', href: '/ux-portfolio/work/项目5', image: '/ux-portfolio/项目5.png' },
+  { title: '项目6', href: '/ux-portfolio/work/项目6', image: '/ux-portfolio/项目6.png' },
+  { title: '项目7', href: '/ux-portfolio/work/项目7', image: '/ux-portfolio/项目7.png' },
+  { title: '团好货全新改版', href: '/ux-portfolio/work/团好货', image: '/ux-portfolio/项目8.png' },
+  { title: '节日节气', href: '/ux-portfolio/work4', image: '/ux-portfolio/节日节气/节日节气-01.png' },
+  { title: '项目5', href: '/ux-portfolio/work/项目5', image: '/ux-portfolio/项目5.png' },
+  { title: '项目6', href: '/ux-portfolio/work/项目6', image: '/ux-portfolio/项目6.png' },
+  { title: '项目7', href: '/ux-portfolio/work/项目7', image: '/ux-portfolio/项目7.png' },
 ]
 </script>
 
